@@ -14,7 +14,7 @@
 
 1. [Install SoapySDR](https://github.com/pothosware/PothosCore/wiki/Ubuntu).
     - Note: Python bindings are not needed for this driver.
-    - Check installation with `SoapySDRUtil --info`
+    - Check installation with `SoapySDRUtil --info`.
 2. [Install the Signal Hound SDK](https://signalhound.com/software/signal-hound-software-development-kit-sdk/).
     - Follow directions in _device_apis/bb_series/linux/README.txt_.
 
@@ -31,7 +31,7 @@ $ make
 $ sudo make install
 $ sudo ldconfig
 ```
-Now if a BB60C device is plugged in, `SoapySDRUtil --find` should display its serial number
+Now if a BB60C device is plugged in, `SoapySDRUtil --find` should display its serial number.
 
 ### Usage
 
