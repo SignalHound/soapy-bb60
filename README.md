@@ -21,7 +21,7 @@
 ### Installation
 
 1. Clone this repository.
-2. Run the following commands from the root directory of the repository:
+2. Run the following commands from the __BB60C__ directory of the repository:
 
 ```
 $ mkdir build
